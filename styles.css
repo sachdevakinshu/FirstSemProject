@@ -14,21 +14,21 @@ span {
   margin: 2px 2px 2px 2px;
 }
 
-.sakshi {
+.setBox {
   height: 20vh;
   width: 24vw;
   border: 2px solid bisque;
-  border-radius: 10px;
+  border-radius: 10px;  
 }
 
-.sakshi {
+.setBox {
   justify-content: center;
   align-items: center;
   display: flex;
   flex-direction: column;
 }
 
-.sakshipic {
+.setBoxpic {
   max-width: 50%;
 }
 
@@ -117,7 +117,7 @@ button {
 
 .submit {
   height: 60px;
-  width: 50%;
+  width: 160%;
   margin-top: 20px;
   border-radius: 20px;
   background-color: gold;
@@ -155,6 +155,7 @@ margin-left: 80px;
 width: 60%;
 border-radius: 50%;
 height: 60%;
+margin-left: 3px;
 
 
 }
